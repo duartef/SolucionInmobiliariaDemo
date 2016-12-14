@@ -11,7 +11,7 @@ namespace InmobiliariaService
     public class DAOBase
     {
         //internal const string connStr = @"Server = FABRICIO-PC; Database=Pacemaker;User Id=sa;Password=q1w2e3r4;";
-        internal const string connStr = @"Data Source=SQL5005.myWindowsHosting.com;Initial Catalog=DB_9BA2A5_Inmobiliaria;User Id=DB_9BA2A5_Inmobiliaria_admin;Password=q1w2e3r4;";
+        internal const string connStr = @"Data Source=sql5032.mywindowshosting.com;Initial Catalog=DB_9BA2A5_Inmobiliaria;User Id=DB_9BA2A5_InmobiliariaDemo_admin;Password=q1w2e3r4;";
 
 
         public static bool DeleteEntity(object dto)
