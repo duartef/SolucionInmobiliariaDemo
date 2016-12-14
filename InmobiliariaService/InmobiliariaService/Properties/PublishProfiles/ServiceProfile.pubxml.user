@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Proyectos\SolucionInmobiliaria.git\trunk\InmobiliariaService\InmobiliariaService\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Settings.xml">
+      <publishTime>07/24/2016 14:41:56</publishTime>
+    </File>
+    <File Include="bin/App_Data/Settings.xml">
+      <publishTime>07/24/2016 14:41:56</publishTime>
+    </File>
+    <File Include="bin/InmobiliariaService.dll">
+      <publishTime>12/13/2016 10:01:20</publishTime>
+    </File>
+    <File Include="Service.asmx">
+      <publishTime>11/16/2016 10:26:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/13/2016 10:01:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
